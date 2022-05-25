@@ -1,13 +1,12 @@
 ### Hello world 👋
 
-Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Full Stack Developer student.
-I'm a technology lover. I like how the technology innovation: machines and lines of code in conjunction with human mind can be used to turn better our lives and the world around us. Always that I think on this innovation I'm happy by work with this. And I'm here to help on construction of new solutions that can facilitate our lives.
+Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Back-end Java developer.
 
-Currently, I'm participating from <b>Certified Tech Developer</b> program, offered by <b>Mercado Libre</b> and <b>Globant</b>.
+Currently, I'm participating from <b>Certified Tech Developer</b> program, with scholarship offered by <b>Mercado Libre</b> and <b>Globant</b>.
 
 My English level: I have facility to read and listen, but sometimes at my brain give a blue screen (yeah, like that Windows error) when I talk, need improve my pronouncing skills. Working in progress 😅
 
-I'm Portuguese native speaker, so I had to learn a lot of grammatical rules, nothing is more hard that this 😂
+I'm Portuguese native speaker, so I had to learn a lot of grammatical rules, nothing is more hard than this 😂
 
 Still in languages, I'm learning French. I can understand some things when a native speak with out ask him to speak again or talk a bit slow, also I can read well, but I fail when I had to speak, like Portuguese, had many grammactical rules, so again, this is a working in progress.
 
