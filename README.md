@@ -1,14 +1,12 @@
-## HelloWorld 👋
+## HelloWorld.java 👋
 
 Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Back-end Java developer.
 
 Currently, I'm participating from <b>Certified Tech Developer</b> program, with scholarship offered by <b>Mercado Libre</b> and <b>Globant</b>.
 
-My English level: I have facility to read and listen, but sometimes at my brain give a blue screen (yeah, like that Windows error) when I talk, need improve my conversation skills. Working in progress 😅
-
 Below, do you can see in what I'm working or studying. Feel free to reach me at Linkedin, let's talk or work together 😄
 
-<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ronilsonalves&repo=ronilsonalves&countColorcountColor&style=flat">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fronilson&label=views&countColor=%2337d67a&style=flat&labelStyle=upper)
 
 <div>
   <a href="https://www.linkedin.com/in/ronilsonalves/">
@@ -35,6 +33,6 @@ Below, do you can see in what I'm working or studying. Feel free to reach me at 
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/ronilsonalves"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.gitlab.com/ronilsonalves"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
- <a href="mailto:falecom@ronilsonalves.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="mailto:falecom[at]ronilsonalves.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www2.ronilsonalves.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
