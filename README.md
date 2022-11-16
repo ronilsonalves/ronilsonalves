@@ -7,8 +7,8 @@ Currently, I'm participating from <b>Certified Tech Developer</b> program, with 
 Below, do you can see in what I'm working or studying. Feel free to reach me at Linkedin, let's talk or work together 😄
 
 ### Stats
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fronilson&label=views&countColor=%2337d67a&style=flat&labelStyle=upper)
-![wakatime](https://wakatime.com/badge/user/37666c36-7365-4269-8c5c-8dd4e149e878.svg)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fronilson&label=views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://www.linkedin.com/in/ronilsonalves)
+[![wakatime](https://wakatime.com/badge/user/37666c36-7365-4269-8c5c-8dd4e149e878.svg)](https://wakatime.com/@ronilsonalves)
 
 <div>
   <a href="https://www.linkedin.com/in/ronilsonalves/">
