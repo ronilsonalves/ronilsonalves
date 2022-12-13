@@ -12,8 +12,8 @@ Below, do you can see in what I'm working or studying. Feel free to reach me at 
 
 <div>
   <a href="https://www.linkedin.com/in/ronilsonalves/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronilsonalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronilsonalves&layout=compact&langs_count=7&theme=dark"></a>
+  <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api?username=ronilsonalves&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://gitreadmestats.ronilsonalves.com/api/top-langs/?username=ronilsonalves&layout=compact&langs_count=7&theme=dark"></a>
 </div>
 
 ### Skills
