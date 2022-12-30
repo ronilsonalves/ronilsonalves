@@ -1,4 +1,4 @@
-## HelloWorld.java 👋
+## Hello World 👋
 
 Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Back-end Java developer.
 
@@ -22,6 +22,7 @@ Below, do you can see in what I'm working or studying. Feel free to reach me at 
  <a href="https://www.linkedin.com/in/ronilsonalves/">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="GoLang" src="https://img.shields.io/badge/Go-0077B5?style=for-the-badge&logo=Go&logoColor=white">
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
