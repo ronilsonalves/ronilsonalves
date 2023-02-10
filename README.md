@@ -38,5 +38,5 @@ Below, do you can see in what I'm working or studying. Feel free to reach me at 
  <a href="https://www.gitlab.com/ronilsonalves"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  <a href="https://twitter.com/ronilsonalves"><img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  <a href="mailto:falecom@ronilsonalves.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www2.ronilsonalves.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <a href="https://www.ronilsonalves.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
