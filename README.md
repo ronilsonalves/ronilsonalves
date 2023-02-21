@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Back-end Java developer.
+Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Software Engineer.
 
 Currently, I'm participating from <b>Certified Tech Developer</b> program, with scholarship offered by <b>Mercado Libre</b> and <b>Globant</b>.
 
