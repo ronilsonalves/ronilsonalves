@@ -1,8 +1,8 @@
-## Hello World 👋
+## Hi  👋
 
 Welcome to my Github page, my name is [Ronilson Alves](https://www.linkedin.com/in/ronilsonalves/?locale=en_US) and I'm Software Engineer.
 
-Currently, I'm participating from <b>Certified Tech Developer</b> program, with scholarship offered by <b>Mercado Libre</b> and <b>Globant</b>.
+I participated in <b>Certified Tech Developer</b> program (2021-2023), with scholarship offered by <b>Mercado Libre</b> and <b>Globant</b>.
 
 Below, do you can see in what I'm working or studying. Feel free to reach me at Linkedin, let's talk or work together 😄
 
@@ -28,10 +28,12 @@ Below, do you can see in what I'm working or studying. Feel free to reach me at 
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white">
  </a>
 </div>
 
-### Contact-me
+### Say hello
 
 <div style="display: inline_block">
  <a href="https://www.linkedin.com/in/ronilsonalves"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
